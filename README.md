@@ -6,7 +6,7 @@ Spring provides everything required beyond the Java programming language for cre
 
 ## Read Guide
 - Bean创建阅读入口方法：AbstractAutowireCapableBeanFactory#createBean(String, RootBeanDefinition, Object[])
-- AOP：
+- mybatis mapper扫描核心方法：ClassPathBeanDefinitionScanner#scan
 
 ## Code of Conduct
 
